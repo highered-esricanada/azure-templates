@@ -19,7 +19,7 @@
       "maxLength": 63,
       "minLength": 1,
       "metadata": {
-        "description": "Unique DNS Name for the Public IP used to access the Virtual Machine. This will give your VM a fully qualified domain name with the following pattern: <my-machine-dns-label>.<region>.cloudapp.azure.com"
+        "description": "Unique DNS Name for the Public IP used to access the Virtual Machine. This will give your VM a fully qualified domain name with the following pattern: my-machine-dns-label.regionname.cloudapp.azure.com"
       }
     },
     "vmName": {
