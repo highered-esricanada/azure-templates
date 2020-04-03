@@ -42,9 +42,9 @@ Good for ArcMap, or ArcGIS Pro if **only** using it for 2D mapping.
 
 #### Cost estimates:
 
-* 50 hours / month: [Canada Central](https://azure.com/e/1b9ab303f18247dd8d54e68706d4ea66) | [East US](https://azure.com/e/9805613cc92542b28f9fb1f19971d51c)
-* 100 hours / month: [Canada Central](https://azure.com/e/342551265b2e4b38bb09c78b46daa5fb) | [East US](https://azure.com/e/1652f8530baf4698ba9bfc4cdc2eb440)
-* 720 hours / month: [Canada Central](https://azure.com/e/caf534c2d62f4b39b4b2c79ef43fcc80) | [East US](https://azure.com/e/927aafe566734ecbbfa567e030016222)
+* 50 hours / month: <a target="_blank" href="https://azure.com/e/1b9ab303f18247dd8d54e68706d4ea66">Canada Central</a> | <a target="_blank" href="https://azure.com/e/9805613cc92542b28f9fb1f19971d51c">East US</a>
+* 100 hours / month: <a target="_blank" href="https://azure.com/e/342551265b2e4b38bb09c78b46daa5fb">Canada Central</a> | <a target="_blank" href="https://azure.com/e/1652f8530baf4698ba9bfc4cdc2eb440">East US</a>
+* 720 hours / month: <a target="_blank" href="https://azure.com/e/caf534c2d62f4b39b4b2c79ef43fcc80">Canada Central</a> | <a target="_blank" href="https://azure.com/e/927aafe566734ecbbfa567e030016222">East US</a>
 
 #### Launch in Azure
 
@@ -63,9 +63,9 @@ Good for either ArcMap or ArcGIS Pro, including use for 3D mapping.
 
 #### Cost estimates:
 
-* 50 hours / month: Canada Central (not available) | [East US](https://azure.com/e/c628fec001474b1d889b474b312e39a0)
-* 100 hours / month: Canada Central (not available) | [East US](https://azure.com/e/bedf8b2468b344d38377f06c1ecc7f90)
-* 720 hours / month: Canada Central (not available) | [East US](https://azure.com/e/d352f352f2174a0ab9e3c49369b9b846)
+* 50 hours / month: Canada Central (not available) | <a target="_blank" href="https://azure.com/e/c628fec001474b1d889b474b312e39a0">East US</a>
+* 100 hours / month: Canada Central (not available) | <a target="_blank" href="https://azure.com/e/bedf8b2468b344d38377f06c1ecc7f90">East US</a>
+* 720 hours / month: Canada Central (not available) | <a target="_blank" href="https://azure.com/e/d352f352f2174a0ab9e3c49369b9b846">East US</a>
 
 #### Launch in Azure
 
@@ -85,9 +85,9 @@ Good for either ArcMap or ArcGIS Pro, including use for 3D mapping.
 
 #### Cost estimates:
 
-* 50 hours / month: [Canada Central](https://azure.com/e/e5f0e3f09ec040ffbc07d7c810dd2405) | [East US](https://azure.com/e/744afcbcbf40419fb51630d29d2d34f6)
-* 100 hours / month: [Canada Central](https://azure.com/e/1eda7d4e0a764a29820451889414952f) | [East US](https://azure.com/e/9d313bb04080428fa43cd059174f059b)
-* 720 hours / month: [Canada Central](https://azure.com/e/f49f188d4a0c4863a29d8604b036e30f) | [East US](https://azure.com/e/7ab814f86d5c407892d76258af79f6cc)
+* 50 hours / month: <a target="_blank" href="https://azure.com/e/e5f0e3f09ec040ffbc07d7c810dd2405">Canada Central</a> | <a target="_blank" href="https://azure.com/e/744afcbcbf40419fb51630d29d2d34f6">East US</a>
+* 100 hours / month: <a target="_blank" href="https://azure.com/e/1eda7d4e0a764a29820451889414952f">Canada Central</a> | <a target="_blank" href="https://azure.com/e/9d313bb04080428fa43cd059174f059b">East US</a>
+* 720 hours / month: <a target="_blank" href="https://azure.com/e/f49f188d4a0c4863a29d8604b036e30f">Canada Central</a> | <a target="_blank" href="https://azure.com/e/7ab814f86d5c407892d76258af79f6cc">East US</a>
 
 #### Launch in Azure
 
