@@ -20,6 +20,11 @@ Prior to choosing the size of a VM, it is good idea to refer to the hardware sys
 
 You may also review the different [sizes available for Windows VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes) in Azure.
 
+To get reasonable performance with ArcGIS Desktop software on a virtual machine, you will likely want to choose a VM that has at least:
+* 4 CPU cores
+* 16 GiB RAM
+* 1 GPU (for 3D in ArcGIS Pro - must be an *NV* series VM in Azure)
+
 Each VM you create will have different pay-as-you-go rates for usage depending on your chosen VM size and hosting region.  Be sure you know the budget you are working with, and understand the costs associated with the VM size you choose and the amount of time you plan to use it over a given period of time.  The Azure [pricing calculator](https://azure.microsoft.com/pricing/calculator/) is a useful tool for estimating associates costs.
 
 Note that a VM created from the ArcGIS Desktop image will include a 128 GiB disk for the operating system that will be allocated as a Premium SSD (or as a Standard SSD if the chosen VM size does not support Premium SSD).
