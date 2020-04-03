@@ -49,10 +49,10 @@ Good for ArcMap, or ArcGIS Pro if **only** using it for 2D mapping.
 #### Launch in Azure
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_D4v3.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
+    <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_D4v3.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/>
+    <img src="https://armviz.io/visualizebutton.png"/>
 </a>
 
 ### Higher performance / GPU support for 3D:
@@ -69,11 +69,11 @@ Good for either ArcMap or ArcGIS Pro, including use for 3D mapping.
 
 #### Launch in Azure
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_B4ms.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_NV6.json" target="_blank">
+    <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_B4ms.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_NV6.json" target="_blank">
+    <img src="https://armviz.io/visualizebutton.png"/>
 </a>
 
 
@@ -92,9 +92,9 @@ Good for either ArcMap or ArcGIS Pro, including use for 3D mapping.
 #### Launch in Azure
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_B4ms.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
+    <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fhighered-esricanada%2Fazure-templates%2Fmaster%2Farcgis_desktop_B4ms.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/>
+    <img src="https://armviz.io/visualizebutton.png"/>
 </a>
 
