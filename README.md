@@ -25,7 +25,7 @@ To get reasonable performance with ArcGIS Desktop software on a virtual machine,
 * 16 GiB RAM
 * 1 GPU (for 3D in ArcGIS Pro - must be an *NV* series VM in Azure)
 
-Each VM you create will have different pay-as-you-go rates for usage depending on your chosen VM size and hosting region.  Be sure you know the budget you are working with, and understand the costs associated with the VM size you choose and the amount of time you plan to use it over a given period of time.  The Azure [pricing calculator](https://azure.microsoft.com/pricing/calculator/) is a useful tool for estimating associates costs.
+Each VM you create will have different pay-as-you-go rates for usage depending on your chosen VM size and hosting region.  Be sure you know the budget you are working with, and understand the costs associated with the VM size you choose and the amount of time you plan to use it over a given period of time.  The Azure [pricing calculator](https://azure.microsoft.com/pricing/calculator/) is a useful tool for estimating associated costs.
 
 Note that a VM created from the ArcGIS Desktop image will include a 128 GiB disk for the operating system that will be allocated as a Premium SSD (or as a Standard SSD if the chosen VM size does not support Premium SSD).
 
