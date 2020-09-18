@@ -1,6 +1,6 @@
 # ArcGIS Desktop VM templates for Azure
 
-These [Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are configured to launch a VM using an Esri [ArcGIS Desktop](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/esri.arcgis-desktop) image from the Azure Marketplace that is preconfigured with ArcMap 10.8 and ArcGIS Pro 2.4.3 (upgradable to 2.5).
+These [Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are configured to launch a VM using an Esri [ArcGIS Desktop](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/esri.arcgis-desktop) image from the Azure Marketplace that is preconfigured with ArcMap 10.8.1 and ArcGIS Pro 2.4.3 (upgradable to 2.5).
 
 When you open one of these templates in Azure, you must first select your subscription, and create or select a resource group in the desired region where you want to host your virtual machine.  In the remaining settings, you will be prompted for the following parameters:
 * **Admin Username**: the username used to access the VM (e.g., via a remote desktop client)
