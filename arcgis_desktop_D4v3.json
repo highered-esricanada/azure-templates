@@ -202,8 +202,8 @@
           "imageReference": {
             "offer": "arcgis-desktop",
             "publisher": "esri",
-            "sku": "desktop-byol-1081",
-            "version": "10.8.14362"
+            "sku": "desktop-byol-108",
+            "version": "10.8.12790"
           },
           "osDisk": {
             "createOption": "FromImage"
@@ -231,7 +231,7 @@
         }
       },
       "plan": {
-        "name": "desktop-byol-1081",
+        "name": "desktop-byol-108",
         "publisher": "esri",
         "product": "arcgis-desktop"
       }
